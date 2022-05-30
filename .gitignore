@@ -1,0 +1,5 @@
+.DS_Store
+/bitrix/
+/upload/
+/local/vendor/
+!/bitrix/php_interface/migrations
